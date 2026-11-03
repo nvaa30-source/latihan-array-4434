@@ -19,11 +19,11 @@ Repository ini berisi latihan dasar penggunaan Array dalam JavaScript, meliputi 
    
 Contoh:
 
-node soal-1-4434-20261103.js
-node soal-2-4434-20261103.js
-node soal-3-4434-20261103.js
-node soal-4-4434-20261103.js
-node soal-5-4434-20261103.js
+- node soal-1-4434-20261103.js
+- node soal-2-4434-20261103.js
+- node soal-3-4434-20261103.js
+- node soal-4-4434-20261103.js
+- node soal-5-4434-20261103.js
 
 ## Hasil Pembelajaran
 Tuliskan secara singkat hal yang dipahami setelah menyelesaikan latihan.
