@@ -13,9 +13,10 @@ Repository ini berisi latihan dasar penggunaan Array dalam JavaScript, meliputi 
 - Soal 4 — Menggunakan Properti length
 - Soal 5 — Studi Kasus Data Siswa
 ## Cara Menjalankan Program
-1 .Buka folder proyek menggunakan Visual Studio Code.
-2 .Buka Terminal.
-3 .Jalankan file JavaScript menggunakan Node.js.
+1. Buka folder proyek menggunakan Visual Studio Code
+2. Buka Terminal.
+3. Jalankan file JavaScript menggunakan Node.js
+   
 Contoh:
 
 node soal-1.js
